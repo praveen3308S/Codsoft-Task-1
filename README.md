@@ -46,8 +46,8 @@ A friendly and interactive chatbot application built with Flask and modern web t
 #### Option 2: Manual Setup
 1. **Clone the repository**:
    ```bash
-   git clone <your-repository-url>
-   cd Task-1-Chatbot
+   git clone https://github.com/praveen3308S/Codsoft-Task-1.git
+   cd Codsoft-Task-1
    ```
 
 2. **Create a virtual environment**:
